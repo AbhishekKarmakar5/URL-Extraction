@@ -8,4 +8,4 @@ os module helps to create temporary file which would be feeded to the tesseract 
 
 re module is for regular expression and is used here for URL finding
 
-webbrowser module automatically opens up the browser, so that makes the searching of the URL in an easy way
+webbrowser module automatically opens up the browser, so that makes the searching of the URL becomes easier.
